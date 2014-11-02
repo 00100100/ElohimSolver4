@@ -21,7 +21,7 @@ encountered. This is checked before looking around the board for the bubble size
 3-2) For every bubble formed from placing that one piece, see if there are enough correct pieces remaining to fill these
 bubbles. If there aren't, backtrack.
 
-This code is significantly faster than than ElohimSolver3.
+This code is significantly faster than than ElohimSolver3 because it cuts down on the recursive solution combination search.
 
 Feel free to improve this work.
 
