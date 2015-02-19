@@ -1,6 +1,7 @@
 ElohimSolver4
 =============
 
+<b>WHAT IT DOES</b>
 Same as ElohimSolver3 but takes bubbles of minSize and pushes pieces into them
 
 This program will take a pool of pieces and jam them in every which way possible into the board. Unfortunately, this is very,
@@ -25,6 +26,7 @@ This code is significantly faster than than ElohimSolver3 because it cuts down o
 
 Feel free to improve this work.
 
+<b>INSTALL</b>
 I used Eclipse to make this. Download this code and import it to your Eclipse to run it.
 
 LK00100100@gmail.com
