@@ -1,5 +1,6 @@
 ElohimSolver4
 =============
+TODO: needs one big clean up and unit tests
 
 <b>WHAT IT DOES</b>
 Same as ElohimSolver3 but takes bubbles of minSize and pushes pieces into them
